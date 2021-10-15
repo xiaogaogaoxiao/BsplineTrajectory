@@ -1,0 +1,3 @@
+This is a matlab's implementation of the B-spline part of the algorithm in paper "Robust real-time UAV replanning using guided gradient-based optimization and topological paths".
+ 
+To see the matlab's result, run the file optimization/non_linear_least_square/map_based_nav.m 

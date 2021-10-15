@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+<rosparam file="$(find cpc_reference_publisher)/launch/control_param.yaml" command="load"/>
+<node pkg="cpc_reference_publisher" type="cpc_reference_publisher_node" name="cpc_reference_publisher_node" output="log">
+<!-- <remap from="/mavros/imu/data" to="/imu"/> -->
+</node>
+</launch>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+
+<node pkg="cpc_reference_publisher" type="system_id" name="system_id" output="screen">
+</node>
+
+</launch>

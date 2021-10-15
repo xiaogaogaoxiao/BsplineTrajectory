@@ -1,0 +1,5 @@
+default_use_full_auto: true
+rc_cmd_overtime: 0.3
+Qd: [2.0, 2.0, 1.0]
+Rd: [0.2, 0.2]
+Sd: [4.0, 2.0]
